@@ -1,0 +1,20 @@
+body{
+    background-image: url(cart.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size:100% 100%;
+}
+table {
+    margin-top: 8%;
+    margin-bottom: 8%;
+  font-family: arial, sans-serif;
+    font-size: 40px;
+  border-collapse: collapse;
+    width: 100%;
+}
+td {
+    
+  border: 0px solid #dddddd;
+  text-align: center;
+    padding:10px;
+}

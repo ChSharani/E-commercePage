@@ -1,0 +1,26 @@
+.navbar-inverse{
+    background-color:black;
+
+}
+ul{
+    font-family: sans-serif;
+    font-size: 15px;
+}
+body{
+    background:linear-gradient(to bottom, #ffffff 0%, #ffff99 100%);
+}
+img{
+    margin-top:5%;
+    align-items: center;
+    height:500px;
+    width:400px;
+}
+.img2{
+    width:600px;
+}
+.img3{
+    width:500px;
+}
+.img4{
+    width:600px;
+}
